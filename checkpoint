@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Johannes\\Dropbox\\Code\\jupyter\\carND\\CarND-Traffic-Signs/model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Johannes\\Dropbox\\Code\\jupyter\\carND\\CarND-Traffic-Signs/model.ckpt"
